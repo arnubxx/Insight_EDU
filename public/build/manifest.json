@@ -9,7 +9,7 @@
     ]
   },
   "resources/js/app.js": {
-    "file": "assets/app-BZZmXFzK.js",
+    "file": "assets/app-D84Ngv4C.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -43,7 +43,7 @@
     "isEntry": true
   },
   "resources/js/pages/auth.js": {
-    "file": "assets/auth-CEBgIKCe.js",
+    "file": "assets/auth-Bs-9Ph-n.js",
     "name": "auth",
     "src": "resources/js/pages/auth.js",
     "isEntry": true
